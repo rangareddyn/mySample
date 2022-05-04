@@ -1,2 +1,6 @@
 Hi man
+<<<<<<< Updated upstream
 HI man once again
+=======
+hi i am rangareddy from giddalur
+>>>>>>> Stashed changes
